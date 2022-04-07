@@ -1,0 +1,38 @@
+{
+    "name": "IVONNE",
+    "tag_line": "Clinical Permanent Makeup & Skincare",
+    "address": {
+        "street": "0116-320 Queen Street",
+        "city": "Ottawa",
+        "province": "ON",
+        "postal_code": "K1R 5A3",
+        "country": "CA"
+    },
+    "coordinates": {
+        "lat": "45.4193176",
+        "long": "-75.7054027"
+    },
+    "telephone": "(613) 695-6662",
+    "telephone_url": "tel:16136956662",
+    "website_url": "https://www.ivonnesanchez.com",
+    "email_address": "https://share.hsforms.com/1EdvYPyxfQdWY8XnRj29CKQ3g7fb",
+    "google_maps_cid_url": "https://www.google.com/maps?cid=735841526328035629",
+    "instagram_url": "https://www.instagram.com/ivonneclinic",
+    "facebook_url": "https://www.facebook.com/ivonneclinic",
+    "facebook_messenger_url": "https://m.me/ivonneclinic",
+    "twitter_url": "https://www.twitter.com/ivonneclinic",
+    "twitter_userid": "@ivonneclinic",
+    "pinterest_url": "https://www.pinterest.ca/ivonneclinic",
+    "yelp_url": "https://www.yelp.ca/biz/ivonne-ottawa",
+    "youtube_url": "https://www.youtube.com/channel/UC_5KTlxSdAKzW0lOwn4ugRw",
+    "scheduling_url": "https://www.ivonnesanchez.com/app/welcome",
+    "consultation_url": "https://www.ivonnesanchez.com/app/new-virtual-consult",
+    "rating_value": "4.8",
+    "opening_hours": {
+        "weekday": "9:00",
+        "weekend": "By Appointment"
+    },
+    "closing_hours": {
+        "weekday": "18:00"
+    }
+}
