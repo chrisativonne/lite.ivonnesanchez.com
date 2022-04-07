@@ -265,7 +265,7 @@ table tr td:first-of-type a {
 }
 
 html {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Open Sans Neue", sans-serif;
   line-height: 1;
   -webkit-text-size-adjust: 100%;
   box-sizing: border-box;
