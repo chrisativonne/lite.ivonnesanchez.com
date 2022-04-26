@@ -1,54 +1,39 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>http://lite.ivonnesanchez.com.html</loc>
-  </url>
-  
-  <url>
-    <loc>http://lite.ivonnesanchez.com/permanent-makeup.html</loc>
-  </url>
-  
-  <url>
-    <loc>http://lite.ivonnesanchez.com/permanent-makeup/microblading.html</loc>
-  </url>
-  
-  <url>
-    <loc>http://lite.ivonnesanchez.com/permanent-makeup/nano-brows.html</loc>
-  </url>
-
-<url>
-    <loc>http://lite.ivonnesanchez.com/permanent-makeup/lip-tattoo.html</loc>
-  </url>
-
-<url>
-    <loc>http://lite.ivonnesanchez.com/permanent-makeup/eyeliner-tattoo.html</loc>
-  </url>
-
-<url>
-    <loc>http://lite.ivonnesanchez.com/permanent-makeup/camouflage-tattoo.html</loc>
-  </url>
-
-<url>
-    <loc>http://lite.ivonnesanchez.com/skincare/microneedling-pro-skincare.html</loc>
-  </url>
-
-<url>
-    <loc>http://lite.ivonnesanchez.com/skincare.html</loc>
-  </url>
-
-<url>
-    <loc>http://lite.ivonnesanchez.com/skincare/chemical-peels.html</loc>
-  </url>
-
-<url>
-    <loc>http://lite.ivonnesanchez.com/contact.html</loc>
-  </url>
-
-<url>
-    <loc>http://lite.ivonnesanchez.com/subscribe.html</loc>
-  </url>
-
-  
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+   <url>
+      <loc>http://lite.ivonnesanchez.com.html</loc>
+   </url>
+   <url>
+      <loc>http://lite.ivonnesanchez.com/permanent-makeup.html</loc>
+   </url>
+   <url>
+      <loc>http://lite.ivonnesanchez.com/permanent-makeup/microblading.html</loc>
+   </url>
+   <url>
+      <loc>http://lite.ivonnesanchez.com/permanent-makeup/nano-brows.html</loc>
+   </url>
+   <url>
+      <loc>http://lite.ivonnesanchez.com/permanent-makeup/lip-tattoo.html</loc>
+   </url>
+   <url>
+      <loc>http://lite.ivonnesanchez.com/permanent-makeup/eyeliner-tattoo.html</loc>
+   </url>
+   <url>
+      <loc>http://lite.ivonnesanchez.com/permanent-makeup/camouflage-tattoo.html</loc>
+   </url>
+   <url>
+      <loc>http://lite.ivonnesanchez.com/skincare/microneedling-pro-skincare.html</loc>
+   </url>
+   <url>
+      <loc>http://lite.ivonnesanchez.com/skincare.html</loc>
+   </url>
+   <url>
+      <loc>http://lite.ivonnesanchez.com/skincare/chemical-peels.html</loc>
+   </url>
+   <url>
+      <loc>http://lite.ivonnesanchez.com/contact.html</loc>
+   </url>
+   <url>
+      <loc>http://lite.ivonnesanchez.com/subscribe.html</loc>
+   </url>
 </urlset>
